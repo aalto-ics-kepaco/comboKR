@@ -1,2 +1,2 @@
 # comboKR
-comboKR for predicting drug combination surfaces
+comboKR for predicting drug combination response surfaces
