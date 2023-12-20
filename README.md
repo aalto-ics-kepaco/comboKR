@@ -42,9 +42,9 @@ After installation comboKR can be imported as
 
 ## Demo
 
-A small-scale demo is provided in demo.py. It runs the experimental setup used in PIICM modification comparison experiments: see supplementary material. The expected runtime is as reported there: less than 10 seconds for one training-test cycle. 
+A small-scale demo is provided in demo.py. It runs the experimental setup used in PIICM modification comparison experiments: see supplementary material. The expected runtime of the algorithm is as reported there; the full script should run in two minutes. 
 
 ## Instructions for use
 
-The algorithm is implemented in the class ComboKR, implementing train and predict -methods. Example on how to use the algorithm can be found from the demo. 
+The algorithm is implemented in the class ComboKR, implementing train and predict -methods. Example on how to use the algorithm can be found from the demo.py. 
 
