@@ -22,6 +22,8 @@ The BRAID surfaces have been fitted with additional NCI60 monotherapy informatio
 
 The experiment is in the "new combo" scenario.
 
+- !remember to unzip the data files! - 
+
 @ Riikka Huusari, 2023
 """
 
