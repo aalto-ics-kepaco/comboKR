@@ -31,13 +31,13 @@ There are two options for installing the comboKR package. Before installing the 
 
 After downloading the comboKR package, it can be installed by the following command from the comboKR directory:
 
->`pip3 install comboKR`
+>`pip3 install .`
 
 ### Using comboKR
 
 After installation comboKR can be imported as
 
->`import ComboKR`
+>`from comboKR import ComboKR`
 
 
 ## Demo
