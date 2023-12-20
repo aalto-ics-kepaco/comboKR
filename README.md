@@ -11,11 +11,13 @@ The demo depends additionally on some other usual python packages, such as panda
 
 ## Installation guide
 
-There are two options for installing the comboKR package. Before installing the comboKR package make sure that latest versions of pip and build are installed:
+Before installing the comboKR package make sure that latest versions of pip and build are installed:
 
 >`pip3 install --upgrade pip`
 
 >`pip3 install --upgrade build`
+
+There are two options for installing the comboKR package. 
 
 ### Directly from the github
 
@@ -42,7 +44,7 @@ After installation comboKR can be imported as
 
 ## Demo
 
-A small-scale demo is provided in demo.py. It runs the experimental setup used in PIICM modification comparison experiments: see supplementary material. The expected runtime of the algorithm is as reported there; the full script should run in two minutes. 
+A small-scale demo is provided in demo.py. Before running it, download and unpack the data_for_demo.zip. The demo runs the experimental setup used in PIICM modification comparison experiments: see supplementary material for details. The expected runtime of the algorithm is as reported there; the full script should run in two minutes. 
 
 ## Instructions for use
 
